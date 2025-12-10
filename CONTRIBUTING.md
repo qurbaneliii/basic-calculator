@@ -1,4 +1,4 @@
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+Tüm katkılar, hata raporları, hata düzeltmeleri, belge iyileştirmeleri, geliştirmeler ve fikirler memnuniyetle karşılanır.
 
 Thank you for considering contributing to this project! To make collaboration easy and productive, please follow the guidelines below.
 
@@ -36,6 +36,6 @@ Commit message style
 
 Code of Conduct and license
 - Please follow the project's Code of Conduct: see CODE_OF_CONDUCT.md for expectations and reporting instructions.
-- By contributing, you agree that your contributions will be licensed under this repository's license (see LICENSE). If the repository does not contain a LICENSE file, contact the maintainers before contributing.
+- By contributing, you agree that your contributions will be licensed under this repository's license (see LICENSE). If the repository does not contain a LICENSE file, contact the maintainers before submitting a contribution.
 
 Thank you for helping improve this project — your contributions are appreciated!
