@@ -1,0 +1,9 @@
+# Check if this repository is a fork and show its parent
+
+Command:
+
+curl -s https://api.github.com/repos/qurbaneliii/basic-calculator | jq '.fork, .parent.full_name'
+
+Example output:
+
+true "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"

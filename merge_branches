@@ -1,0 +1,14 @@
+# Example of merging a branch into main with a fast-forward
+
+Commands:
+
+git checkout main
+git merge bug-fix-typo
+
+Example output:
+
+Switched to branch 'main'
+Updating 3f5a1b2..9a8c7d6
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
